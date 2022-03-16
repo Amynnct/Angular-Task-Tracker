@@ -33,4 +33,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-This project is created following the Angular Crash Course 2021 from bradtraversy.
+This project is created following the Angular Crash Course 2021 from [bradtraversy](https://www.youtube.com/watch?v=3dHNOWTI7H8&t=2681s).
