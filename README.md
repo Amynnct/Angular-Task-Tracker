@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Video walkthrough
 
-<img src='https://github.com/Amynnct/Angular-Task-Tracker/blob/master/walk-through.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Amynnct/Angular-Task-Tracker/blob/master/walk-through.gif' title='Video Walkthrough' width='399' alt='Video Walkthrough' />
 
 GIF created with [ScreenToGif](http://www.screentogif.com/).
 
