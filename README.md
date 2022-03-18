@@ -1,6 +1,13 @@
 # TaskTracker
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+**TaskTracker** is a simple web application that could be used to track important task or as a to-do list. It includes the Angular UI and using json-server as the mock backend.
+
+## Video walkthrough
+
+<img src='https://github.com/Amynnct/Angular-Task-Tracker/blob/master/walk-through.gif' title='Video Walkthrough' width='399' alt='Video Walkthrough' />
+
+GIF created with [ScreenToGif](http://www.screentogif.com/).
 
 ## Development server
 
@@ -25,3 +32,5 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+This project is created following the Angular Crash Course 2021 from [bradtraversy](https://www.youtube.com/watch?v=3dHNOWTI7H8&t=2681s).
